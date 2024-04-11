@@ -29,12 +29,6 @@ This is a simple E-bike Rental System implemented using Tkinter, a Python librar
    cd Group_Project
    ```
 
-4. Install the required dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
 ## Usage
 To get started with the E-Bike Management System (Glas'e'go), follow the below steps:
 
